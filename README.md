@@ -7,3 +7,4 @@ Replaced icons (glyph, muxlaunch)
 Replaced font
 
 Tested at 640x480 resolution. Haven’t tested with other resolutions.
+Shadows are not removed in themes with resolutions of 1024x768 and 1280x720.
