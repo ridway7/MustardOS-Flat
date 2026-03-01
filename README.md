@@ -3,11 +3,11 @@
 
 This theme is based on the default [Jacaranda] MustardOS theme for muOS https://muos.dev/, with some minor modifications. I removed shadows and gradients from the theme and applied popular color presets.
 Changes compared to the main [Jacaranda] MustardOS theme:
-14 new color schemes (alternative)
-Minor changes to global.ini
-Replaced sounds (back.wav, confirm.wav, navigate.wav)
-Replaced icons (glyph, muxlaunch)
-Replaced font
+- 14 new color schemes (alternative)
+- Minor changes to global.ini
+- Replaced sounds (back.wav, confirm.wav, navigate.wav)
+- Replaced icons (glyph, muxlaunch)
+- Replaced font
 
 Tested at 640x480 resolution. Not tested at other resolutions.
 Shadows are not removed in themes with 1024x768 and 1280x720 resolutions.
